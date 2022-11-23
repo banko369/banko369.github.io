@@ -5,9 +5,8 @@ date: 2015-12-24
 category:
   - git
 tag:
-  - git
   - 版本控制
-order: 4
+order: 3
 ---
 
 

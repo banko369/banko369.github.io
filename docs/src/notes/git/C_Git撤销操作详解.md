@@ -5,12 +5,11 @@ date: 2019-12-24
 category:
   - git
 tag:
-  - git
   - 版本控制
-order: 6
+order: 11
 ---
 
-# 如何撤销 Git 操作？
+# Git 撤销操作详解
 
 Git 版本管理时，往往需要撤销某些操作。
 

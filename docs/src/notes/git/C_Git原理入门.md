@@ -5,9 +5,8 @@ date: 2018-10-10
 category:
   - git
 tag:
-  - git
   - 版本控制
-order: 2
+order: 4
 ---
 
 

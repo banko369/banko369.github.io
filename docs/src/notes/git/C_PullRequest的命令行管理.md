@@ -5,12 +5,11 @@ date: 2017-07-18
 category:
   - git
 tag:
-  - git
   - 版本控制
-order: 7
+order: 13
 ---
 
-# Pull Request 的命令行管理
+# PullRequest 的命令行管理
 
 Github 的一大特色就是 [Pull Request](https://help.github.com/articles/about-pull-requests/) 功能（简写为 PR）。
 

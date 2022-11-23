@@ -5,12 +5,11 @@ date: 2020-04-27
 category:
   - git
 tag:
-  - git
   - 版本控制
-order: 9
+order: 14
 ---
 
-# git cherry-pick 教程
+# cherry-pick 教程
 
 对于多分支的代码库，将代码从一个分支转移到另一个分支是常见需求。
 

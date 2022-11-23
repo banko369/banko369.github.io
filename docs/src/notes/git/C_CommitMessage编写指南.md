@@ -5,12 +5,11 @@ date: 2016-01-06
 category:
   - git
 tag:
-  - git
   - 版本控制
-order: 8
+order: 5
 ---
 
-# Commit message 和 Change log 编写指南
+# CommitMessage 编写指南
 
 Git 每次提交代码，都要写 Commit message（提交说明），否则就不允许提交。
 
