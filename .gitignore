@@ -1,5 +1,6 @@
-node_modules
-.temp
-.cache
+**/node_modules/
+**/.cache/
+**/.temp/
+**/dist/
 
-yarn.lock
+**/yarn.lock

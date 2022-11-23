@@ -1,3 +1,3 @@
+![VuePress Logo](hero.png)
 # Hello VuePress
 
-![VuePress Logo](hero.png)
