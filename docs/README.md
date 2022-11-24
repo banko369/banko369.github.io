@@ -18,9 +18,9 @@ projects:
     link: https://vuepress-theme-hope.github.io/v2/zh/
     icon: /assets/images/vuepress-hope-logo.png
 
-  - name: Waline
-    desc: 一个安全轻量的评论系统
-    link: https://waline.js.org/
-    icon: https://waline.js.org/logo.png
+  - name: Giscus
+    desc: 由 GitHub Discussions 驱动的评论系统。
+    link: https://giscus.app/zh-CN
+    icon: https://avatars.githubusercontent.com/in/106117
 
 ---
