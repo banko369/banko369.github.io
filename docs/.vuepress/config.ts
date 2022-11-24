@@ -7,8 +7,8 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "番猫工作室",
-      description: "个人笔记",
+      title: "番猫的个人日志",
+      description: "个人日志",
     },
     "/en/": {
       lang: "en-US",

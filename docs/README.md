@@ -4,7 +4,7 @@ layout: Blog
 icon: home
 title: 主页
 heroImage: /logo.svg
-heroText: 番猫工作室
+heroText: 番猫的个人日志
 heroFullScreen: true
 tagline: 生命不息，奋斗不止
 projects:

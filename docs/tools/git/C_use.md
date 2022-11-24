@@ -1,10 +1,11 @@
 ---
-icon: edit
+icon: git
 author: "阮一峰"
 date: 2015-08-05
 category:
   - git
 tag:
+  - 工具
   - 版本控制
 order: 2
 ---

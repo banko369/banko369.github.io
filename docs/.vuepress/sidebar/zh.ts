@@ -2,10 +2,10 @@ import { sidebar } from "vuepress-theme-hope";
 
 export const zhSidebar = sidebar({
 
-  "/notes/": "structure",
+  "/tools/": "structure",
 
-  "/notes/git/": "structure",
+  "/tools/git/": "structure",
 
   // fallback
-  "/": ["", "demo", "notes", "intro", "slides"],
+  "/": ["", "demo", "intro", "slides"],
 });
