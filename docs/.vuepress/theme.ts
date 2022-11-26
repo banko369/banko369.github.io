@@ -23,7 +23,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "banko369/vuepress",
+  repo: "banko369/banko369.github.io",
 
   docsDir: "docs",
 
@@ -119,10 +119,10 @@ export default hopeTheme({
        * Using Giscus
        */
       provider: "Giscus",
-      repo: "banko369/vuepress",
-      repoId: "R_kgDOIeuaYw",
+      repo: "banko369/banko369.github.io",
+      repoId: "R_kgDOIgVzUg",
       category: "Announcements",
-      categoryId: "DIC_kwDOIeuaY84CSuyK",
+      categoryId: "DIC_kwDOIgVzUs4CSxAL",
 
       /**
        * Using Twikoo
