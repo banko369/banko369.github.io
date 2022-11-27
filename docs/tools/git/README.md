@@ -40,6 +40,10 @@ Git 是一个开源的分布式版本控制系统，用于敏捷高效地处理�
 - [Cherry-pick](reprint-cherry-pick.md)
 
 - [Bisect](reprint-bisect.md)
+  
+## 个人笔记
+
+- [gitignore文件规范](gitignore.md)
 
 ## 扩展阅读
 
