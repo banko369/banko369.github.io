@@ -21,25 +21,25 @@ Git 是一个开源的分布式版本控制系统，用于敏捷高效地处理�
 
 ## 阮一峰 Git教程
 
-- [Git 常用命令](C_common.md)
+- [Git 常用命令](reprint-common.md)
 
-- [Git 使用规范](C_use.md)
+- [Git 使用规范](reprint-use.md)
 
-- [Git 工作流程](C_workflow.md)
+- [Git 工作流程](reprint-workflow.md)
 
-- [Git 原理入门](C_principle.md)
+- [Git 原理入门](reprint-principle.md)
 
-- [Git CommitMessage编写](C_CommitMessage.md)
+- [Git CommitMessage编写](reprint-commit-message.md)
 
-- [Git 撤销操作](C_revocation.md)
+- [Git 撤销操作](reprint-revocation.md)
 
-- [Git 远程操作](C_remote.md)
+- [Git 远程操作](reprint-remote.md)
 
-- [PullRrequest](C_PullRequest.md)
+- [PullRrequest](reprint-pull-request.md)
 
-- [Cherry-pick](C_cherry-pick.md)
+- [Cherry-pick](reprint-cherry-pick.md)
 
-- [Bisect](C_bisect.md)
+- [Bisect](reprint-bisect.md)
 
 ## 扩展阅读
 
