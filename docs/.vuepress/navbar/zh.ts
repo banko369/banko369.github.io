@@ -33,8 +33,8 @@ export const zhNavbar = navbar([
     children: ["README.md"],
   },
   {
-    text: "V2 文档",
+    text: "文档规范",
     icon: "note",
-    link: "https://vuepress-theme-hope.github.io/v2/",
+    link: "https://github.com/ruanyf/document-style-guide",
   },
 ]);
