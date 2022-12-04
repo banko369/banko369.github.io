@@ -18,7 +18,10 @@ export const zhNavbar = navbar([
     text: "Linux",
     icon: "linux",
     prefix: "/linux/",
-    children: ["README.md"],
+    children: [
+      { text: "命令查询", icon: "search", link: "https://www.banko.work/linux-command" },
+      { text: "笔记", children: ["README.md"] }
+    ],
   },
   {
     text: "工具",
