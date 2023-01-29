@@ -73,7 +73,7 @@ export default hopeTheme({
       sidebar: zhSidebar,
 
       displayFooter: true,
-      footer: "京ICP备2022034059号-1 番猫©Copyright 2022-2023",
+      footer: '<a href="https://beian.miit.gov.cn/" target="_blank">京ICP备2022034059号-1</a> 番猫©Copyright 2022-2023',
       copyright: false,
 
       blog: {
@@ -94,7 +94,7 @@ export default hopeTheme({
       sidebar: enSidebar,
 
       displayFooter: true,
-      footer: "京ICP备2022034059号-1 Banko©Copyright 2022-2023",
+      footer: '<a href="https://beian.miit.gov.cn/" target="_blank">京ICP备2022034059号-1</a> Banko©Copyright 2022-2023',
       copyright: false,
 
       blog: {
